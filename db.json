@@ -1,14 +1,14 @@
 {
  "restaurant": [
    {
-     "precioPlatillo: 200,
-     "nombrePlatillo: "Carne con papas",
+     "precioPlatillo": 200,
+     "nombrePlatillo": "Carne con papas",
      "categoria": "entrantes",
      "id": 1
    },
    {
-     "precioPlatillo: 300,
-     "nombrePlatillo: "Pollo en Salsa",
+     "precioPlatillo": 300,
+     "nombrePlatillo": "Pollo en Salsa",
      "categoria": "postres",
      "id": 2
    },
